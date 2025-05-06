@@ -1,2 +1,7 @@
-# Python_Project_1
-This was my first project using Python. I structured the code by separating the main logic from the functions to improve readability and maintainability.
+# 🎮 Python_Project_1
+
+- 파이썬을 처음 공부한 후, 저는 첫 번째 프로젝트로 컴퓨터와 가위바위보를 하는 프로그램을 만들었습니다. 
+- 지금 다시 보면 단순한 프로그램이지만, 그 당시에는 하나하나 어렵게 고민하며 만들었던 기억이 떠오르네요. 
+
+## 사용한 기술
+- Python
