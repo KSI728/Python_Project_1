@@ -7,7 +7,7 @@
 
 - Python
 
-## 🖥️ 파일 설명 
+## 📂 파일 설명 
 
 - main.py : 가위바위보 프로그램이 실행되는 main 파일
 - function.py : 가위바위보 프로그램에 사용되는 함수들이 저장된 function 파일
